@@ -1,2 +1,2 @@
-# youtube-clone
- this is a clone of youtube
+# YouTube-clone
+ This is a clone of Youtube
